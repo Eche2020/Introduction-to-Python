@@ -1,0 +1,2 @@
+# Advanced Level:
+# Write a Python program that takes a list of strings and returns a list of strings sorted by their lengths in ascending order. If two strings have the same length, they should be sorted alphabetically.
